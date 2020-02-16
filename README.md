@@ -1,8 +1,8 @@
 # web-app
 
-practise app
+practice app
 
-## Set up
+## Set up application from scratch
 
 ### Initialize node project
 
@@ -40,11 +40,12 @@ webpack.config.js file
 
 - index.html in root dir
 - index.js in root dir
--
+- .\src\containers\App.js
 
 ## Resources
 
 [How to set up & deploy your React app from scratch using Webpack and Babel](https://www.freecodecamp.org/news/how-to-set-up-deploy-your-react-app-from-scratch-using-webpack-and-babel-a669891033d4/) <br>
 [Module](https://webpack.js.org/configuration/module/) <br>
 [Setting up a React project from scratch](https://codeburst.io/setting-up-a-react-project-from-scratch-d62f38ab6d97)<br>
-[]()<br>
+[How to set up a React project from scratch](https://dev.to/kris/how-to-set-up-a-react-project-from-scratch-4ob)<br>
+[Content Security Policy for Webpack](https://medium.com/@minozhenko/content-security-policy-for-webpack-b4d1dd305feb)
