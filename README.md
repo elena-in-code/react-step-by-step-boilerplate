@@ -60,6 +60,12 @@ webpack.config.js file
 
 #### Prettier configuration
 
+### ESLint
+
+`npm install husky --save-dev` or `npm i -D husky`
+
+#### ESLint configuration
+
 ## Resources
 
 [How to set up & deploy your React app from scratch using Webpack and Babel](https://www.freecodecamp.org/news/how-to-set-up-deploy-your-react-app-from-scratch-using-webpack-and-babel-a669891033d4/) <br>
@@ -68,3 +74,5 @@ webpack.config.js file
 [How to set up a React project from scratch](https://dev.to/kris/how-to-set-up-a-react-project-from-scratch-4ob)<br>
 [Content Security Policy for Webpack](https://medium.com/@minozhenko/content-security-policy-for-webpack-b4d1dd305feb)<br>
 [VSCode ESLint, Prettier & Airbnb Style Guide Setup by Traversy Media](https://www.youtube.com/watch?v=SydnKbGc7W8) <br>
+[Build a Modern JS Project - #3 ESLint, Prettier & EditorConfig](https://www.youtube.com/watch?v=O4ZIJgOWj_A) <br>
+[Getting Started with ESLint](https://eslint.org/docs/user-guide/getting-started) <br>
