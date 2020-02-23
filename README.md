@@ -1,4 +1,4 @@
-# web-app
+# react-step-by-step-boilerplate
 
 This repository is documenting the steps followed to set-up a react application from scratch, so you can follow along and make your own <br>
 A necessary exercise for newbies to coding <br>
@@ -141,4 +141,4 @@ Fix by using 2 plugins:
 [Build a Modern JS Project - #3 ESLint, Prettier & EditorConfig](https://www.youtube.com/watch?v=O4ZIJgOWj_A) <br>
 [Easy git hooks with Husky](https://www.vojtechruzicka.com/githooks-husky/) <br>
 
-If you liked this please give it a star ⭐ at the top of the page, Thank you!
+If you liked this, please give it a star ⭐ at the top of the page, Thank you!
