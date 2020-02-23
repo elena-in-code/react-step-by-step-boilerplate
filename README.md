@@ -23,7 +23,7 @@ Steps:
 - Run application --> run this command in your console: <br>
   `npm run start`
 
-## Crate your boiler plate from scratch
+## Crate your boilerplate from scratch
 
 In the sections I listed the steps I followed
 
@@ -46,7 +46,7 @@ In the sections I listed the steps I followed
 `npm install --save webpack webpack-dev-server`<br>
 `npm install --save-dev webpack-cli` or `npm i -D webpack-cli`
 
-#### webpack configuration
+#### Webpack configuration
 
 [webpack.config.js file](https://github.com/elena-in-code/web-app/blob/master/webpack.config.js)<br>
 This file you have to create in your working directory.
