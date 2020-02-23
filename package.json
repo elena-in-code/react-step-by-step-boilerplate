@@ -1,8 +1,28 @@
 {
   "name": "web-app",
   "version": "1.0.0",
-  "description": "practice app",
+  "description": "react boilerplate for beginners",
+  "author": "Elena Moral <https://twitter.com/Elena_in_code>",
+  "license": "MIT",
+  "keywords": [
+    "react",
+    "es6",
+    "babel",
+    "webpack",
+    "boilerplate",
+    "husky",
+    "prettier",
+    "starter"
+  ],
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elena-in-code/web-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/elena-in-code/web-app/issues"
+  },
+  "homepage": "https://github.com/elena-in-code/web-app#readme",
   "scripts": {
     "lint": "eslint '**/*.js'",
     "start": "webpack-dev-server --mode development --history-api-fallback"
@@ -22,16 +42,6 @@
       "git add"
     ]
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/elena-in-code/web-app.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/elena-in-code/web-app/issues"
-  },
-  "homepage": "https://github.com/elena-in-code/web-app#readme",
   "dependencies": {
     "csp-webpack-plugin": "^2.0.2",
     "react": "^16.12.0",

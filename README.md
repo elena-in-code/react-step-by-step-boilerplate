@@ -23,7 +23,7 @@ Steps:
 - Run application --> run this command in your console: <br>
   `npm run start`
 
-## Crate your boilerplate from scratch
+## Create your boilerplate from scratch
 
 In the sections I listed the steps I followed
 
@@ -76,7 +76,7 @@ This file you have to create in your working directory.
 `npx eslint --init`
 
 [.eslintrc file](https://github.com/elena-in-code/web-app/blob/master/.eslintrc.json) <br>
-This file will be created for you when you run the command above, after a series of questions. Answers can be change afterwards in the same file.
+This file will be created for you when you run the command above, after a series of questions in the console. Answers can be changed afterwards in the same file.
 
 - `npm install eslint-plugin-prettier`: Runs Prettier as an ESLint rule and reports differences as individual ESLint issues.
 - `npm install eslint-config-prettier`: Turns off all rules that are unnecessary or might conflict with Prettier.
@@ -102,7 +102,7 @@ In our case `pre-commit`<br>
 
 We are using lint-staged <br>
 `npm install --save-dev lint-staged` <br>
-Auto-correcting issues prior commit
+Auto-correcting issues prior to commit
 
 ## Issues faced
 
