@@ -1,6 +1,9 @@
 # web-app
 
-React application boilerplate with:
+This repository is documenting the steps followed to set-up a react application from scratch, so you can follow along and make your own <br>
+A necessary exercise for newbies to coding <br>
+
+This React application boilerplate uses:
 
 - Webpack
 - Babel
@@ -12,7 +15,8 @@ More details in [package.json](https://github.com/elena-in-code/web-app/blob/mas
 
 ## Clone this boilerplate and start your app
 
-Get this boiler plate and start working on your react app <br>
+You can get this boiler plate and start working on your react app <br>
+but I will recommend to [work on your own for practice](https://github.com/elena-in-code/web-app#create-your-boilerplate-from-scratch).
 
 Steps:
 
@@ -136,3 +140,5 @@ Fix by using 2 plugins:
 [VSCode ESLint, Prettier & Airbnb Style Guide Setup by Traversy Media](https://www.youtube.com/watch?v=SydnKbGc7W8) <br>
 [Build a Modern JS Project - #3 ESLint, Prettier & EditorConfig](https://www.youtube.com/watch?v=O4ZIJgOWj_A) <br>
 [Easy git hooks with Husky](https://www.vojtechruzicka.com/githooks-husky/) <br>
+
+If you liked this please give it a star ⭐ at the top of the page, Thank you!
